@@ -30,7 +30,7 @@
    * к объекту `ObjectDetectionLogic` прикреплён скрипт `LogResults`, в качестве `Object Detection Manager` в нем выбрана `Main Camera`.
    * к объекту `Canvas/BoundingBoxOverlay` прикреплен скрипт `DrawRect`, в качестве `Rectangle Prefab` в нем выбран `RectObject`.
    * к объекту `Sample` прикреплен скрипт `ObjectDetectionSample`, в качестве `Object Detection Manager` в нем выбрана `Main Camera`, в качестве `Draw Rect` в нем выбран `Canvas/BoundingBoxOverlay`.
-   * ‼️*** Если какие-то объекты не прикреплены, проект работать не будет. ***‼️
+   * ‼️**Если какие-то объекты не прикреплены, проект работать не будет.**‼️
 4. Собрать проект на Android **или** протестировать через **Playback** в Editor.
 
 ---
